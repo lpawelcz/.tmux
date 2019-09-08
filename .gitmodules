@@ -16,3 +16,6 @@
 [submodule "plugins/vim-tmux-navigator"]
 	path = plugins/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "plugins/tmux-themepack"]
+	path = plugins/tmux-themepack
+	url = https://github.com/jimeh/tmux-themepack
